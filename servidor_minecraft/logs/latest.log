@@ -616,3 +616,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [22Jan2025 18:41:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to 211.500000, 88.500000, 51.500000
 [22Jan2025 18:52:35.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Disconnected
 [22Jan2025 18:52:35.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
+[22Jan2025 20:02:52.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Disconnected
+[22Jan2025 20:02:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[22Jan2025 20:02:54.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lkarakol lost connection: Disconnected
+[22Jan2025 20:02:54.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol left the game
+[22Jan2025 20:03:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jan2025 20:03:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jan2025 20:03:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jan2025 20:03:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:overworld
+[22Jan2025 20:03:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:the_nether
+[22Jan2025 20:03:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:the_end
+[22Jan2025 20:03:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Nuevo_Mundo): All chunks are saved
+[22Jan2025 20:03:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 20:03:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 20:03:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
