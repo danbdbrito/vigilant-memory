@@ -310,3 +310,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [22Jan2025 15:57:29.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Oliverpenguin5) moved wrongly! 0.26900170189708206
 [22Jan2025 15:57:30.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Oliverpenguin5) moved wrongly! 0.2851310897922872
 [22Jan2025 15:57:30.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Oliverpenguin5) moved wrongly! 0.37395753134470056
+[22Jan2025 16:00:50.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Javivi1404[/192.168.196.91:56176] logged in with entity id 12339 at (199.95971682727236, 96.0, 51.770832843244435)
+[22Jan2025 16:00:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Javivi1404 joined the game
+[22Jan2025 16:01:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> eeee!!
+[22Jan2025 16:01:51.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Javivi1404 lost connection: Disconnected
+[22Jan2025 16:01:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Javivi1404 left the game
+[22Jan2025 16:01:58.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> buuu
+[22Jan2025 16:02:08.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Javivi1404[/192.168.196.91:56321] logged in with entity id 12542 at (199.95971682727236, 96.0, 51.770832843244435)
+[22Jan2025 16:02:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Javivi1404 joined the game
+[22Jan2025 16:02:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> eee!!
+[22Jan2025 16:03:00.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a
+[22Jan2025 16:03:51.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> a dormir?
+[22Jan2025 16:03:53.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dle
+[22Jan2025 16:04:26.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> oiga
+[22Jan2025 16:04:28.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> suba
+[22Jan2025 16:04:39.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> corazon la mochila nueva
+[22Jan2025 16:05:04.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ta bueno el tema
+[22Jan2025 16:05:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> eee
+[22Jan2025 16:05:15.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> apreta la M
+[22Jan2025 16:05:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> y en el monito con la flecha se saca la mochila vieja
+[22Jan2025 16:05:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Javivi1404> aaaahhh
+[22Jan2025 16:05:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> en la parte iferior izquierda de la mochila
+[22Jan2025 16:06:02.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Javivi1404> no funciona lo de la m
+[22Jan2025 16:06:16.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ooh que raro
+[22Jan2025 16:06:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ??
+[22Jan2025 16:06:32.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> en vola la configuracion
+[22Jan2025 16:06:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Javivi1404> no me abre la mochilita al apretar la m
+[22Jan2025 16:06:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Javivi1404> akjkasj que loca la cancion
+[22Jan2025 16:06:44.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> configuro el boton?
+[22Jan2025 16:06:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> sipo
+[22Jan2025 16:06:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> vamos a configurar
+[22Jan2025 16:06:59.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Javivi1404> lo hago denuevo?
+[22Jan2025 16:07:00.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tiene que revistar si no esta duplicada la tecla
+[22Jan2025 16:07:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> llamada?
