@@ -3191,3 +3191,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [22Jan2025 17:46:59.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> faltan los otros pisos
 [22Jan2025 17:50:14.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
 [22Jan2025 17:50:14.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[22Jan2025 17:53:55.204] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID fa4127cb-9430-45a0-87d4-332a3e779f2e
+[22Jan2025 17:53:55.205] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 593 Y: 50 Z: 91
+[22Jan2025 17:53:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was slain by Zombie
+[22Jan2025 17:53:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> csm
+[22Jan2025 17:54:00.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> tp
+[22Jan2025 17:54:00.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tp
+[22Jan2025 17:54:04.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> voy
+[22Jan2025 17:54:09.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> sapos qls brigidos
+[22Jan2025 17:54:16.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Mancoprotesis to Oliverpenguin5
+[22Jan2025 17:55:14.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[22Jan2025 17:55:14.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[22Jan2025 17:55:29.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aca
+[22Jan2025 17:55:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toma
+[22Jan2025 18:00:14.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[22Jan2025 18:00:14.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
