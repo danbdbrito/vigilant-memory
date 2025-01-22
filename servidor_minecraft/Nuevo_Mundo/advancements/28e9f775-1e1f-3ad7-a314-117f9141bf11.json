@@ -726,6 +726,7 @@
       "minecraft:cave_spider": "2025-01-22 16:38:17 +0000",
       "minecraft:silverfish": "2025-01-20 20:23:58 +0000",
       "minecraft:stray": "2025-01-22 16:41:14 +0000",
+      "minecraft:enderman": "2025-01-22 17:38:07 +0000",
       "minecraft:zombie": "2025-01-20 18:48:55 +0000",
       "minecraft:drowned": "2025-01-20 19:27:22 +0000"
     },
@@ -4571,9 +4572,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-22 17:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-22 17:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-22 17:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-22 17:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-22 17:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-22 17:32:49 +0000"
     },
     "done": true
   },
