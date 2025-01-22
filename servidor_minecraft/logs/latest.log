@@ -299,3 +299,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [22Jan2025 15:49:04.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> tiene caleta de espacio
 [22Jan2025 15:49:58.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> oye nibba se le puede subir un lvl mas a la mochila o no?
 [22Jan2025 15:50:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> son como 2 o 3
+[22Jan2025 15:50:28.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en la cosa de las mochilas sale, tienes que verla en un cofre y a la derecha salen los craft
+[22Jan2025 15:50:43.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> o con abrir la mochila
+[22Jan2025 15:50:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ahi salen tambien los craft
+[22Jan2025 15:51:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to 211.500000, 88.500000, 51.500000
+[22Jan2025 15:53:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> listo saque como 15 cubos de redstone
+[22Jan2025 15:53:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> qlo pro
+[22Jan2025 15:55:00.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Javivi1404 lost connection: Disconnected
+[22Jan2025 15:55:00.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Javivi1404 left the game
+[22Jan2025 15:57:29.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Oliverpenguin5) moved wrongly! 0.26900170189708206
+[22Jan2025 15:57:30.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Oliverpenguin5) moved wrongly! 0.2851310897922872
+[22Jan2025 15:57:30.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Oliverpenguin5) moved wrongly! 0.37395753134470056
