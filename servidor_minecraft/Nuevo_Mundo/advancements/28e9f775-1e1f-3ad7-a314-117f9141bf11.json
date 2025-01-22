@@ -4553,5 +4553,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-22 17:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-22 17:00:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
