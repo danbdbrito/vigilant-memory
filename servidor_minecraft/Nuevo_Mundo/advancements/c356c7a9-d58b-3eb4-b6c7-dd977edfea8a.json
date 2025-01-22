@@ -5254,5 +5254,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-22 15:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-01-22 15:41:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
