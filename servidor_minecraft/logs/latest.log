@@ -237,3 +237,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 21:12:04.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [25Jan2025 21:20:25.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:58951] logged in with entity id 3671 at (207.53879888171133, 88.0, 57.069948947467424)
 [25Jan2025 21:20:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
+[25Jan2025 22:34:45.343] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 172fe409-0c86-4f6f-a40c-584ff8a7fb46
+[25Jan2025 22:34:45.345] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 320 Y: 161 Z: 153
+[25Jan2025 22:34:45.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis fell from a high place
