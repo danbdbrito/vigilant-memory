@@ -2148,3 +2148,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 22:17:12.373] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=316, y=160, z=154}) doesn't have enough leaves around top most log
 [25Jan2025 22:21:41.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
 [25Jan2025 22:21:41.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 22:26:41.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 22:26:41.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 22:26:54.439] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=305, y=167, z=146}) doesn't have enough leaves around top most log
+[25Jan2025 22:27:15.844] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=305, y=167, z=141}) doesn't have enough leaves around top most log
+[25Jan2025 22:27:50.394] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=305, y=167, z=138}) doesn't have enough leaves around top most log
+[25Jan2025 22:29:20.743] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=306, y=161, z=136}) doesn't have enough leaves around top most log
+[25Jan2025 22:29:53.536] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=313, y=167, z=135}) doesn't have enough leaves around top most log
+[25Jan2025 22:31:31.400] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=323, y=162, z=147}) doesn't have enough leaves around top most log
+[25Jan2025 22:31:41.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 22:31:41.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
