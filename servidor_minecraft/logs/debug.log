@@ -1760,3 +1760,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 23:15:15.685] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 9d893ba2-7011-49f4-8e03-f0a53971af38
 [25Jan2025 23:15:15.687] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 46 Y: 45 Z: -7
 [25Jan2025 23:15:15.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis fell from a high place
+[25Jan2025 23:17:23.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 23:17:23.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 23:17:32.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis has made the advancement [Ice Bucket Challenge]
+[25Jan2025 23:22:23.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 23:22:23.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 23:27:23.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 23:27:23.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 23:32:23.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 23:32:23.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
