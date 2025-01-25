@@ -298,3 +298,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 04:40:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> XD
 [25Jan2025 04:41:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> la que tengo equipada tiene cuerpo ignifugo
 [25Jan2025 04:41:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> QLO PRO
+[25Jan2025 04:41:43.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> YA CHORO
+[25Jan2025 04:41:48.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en la b a la izquierda te sale un switch que ahi se activa
+[25Jan2025 04:41:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ME VOY A ACOSTAR
+[25Jan2025 04:41:51.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dale
+[25Jan2025 04:41:55.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> wena noche
+[25Jan2025 04:41:58.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Disconnected
+[25Jan2025 04:41:58.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[25Jan2025 04:41:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> SI QUIERES SEGUIR ORDENANDO LAS COSITAS
+[25Jan2025 04:42:05.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Disconnected
+[25Jan2025 04:42:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
+[25Jan2025 04:43:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jan2025 04:43:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jan2025 04:43:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jan2025 04:43:45.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:overworld
+[25Jan2025 04:43:46.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:the_nether
+[25Jan2025 04:43:46.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:the_end
+[25Jan2025 04:43:46.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Nuevo_Mundo): All chunks are saved
+[25Jan2025 04:43:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jan2025 04:43:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jan2025 04:43:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
