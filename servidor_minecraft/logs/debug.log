@@ -1868,3 +1868,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 21:20:25.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:58951] logged in with entity id 3671 at (207.53879888171133, 88.0, 57.069948947467424)
 [25Jan2025 21:20:25.935] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7a7bf961 into net.minecraft.network.Connection@776d7af9
 [25Jan2025 21:20:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
+[25Jan2025 21:21:41.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 21:21:41.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 21:26:41.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 21:26:41.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
