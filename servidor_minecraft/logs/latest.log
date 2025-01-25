@@ -246,3 +246,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 20:00:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
 [25Jan2025 20:02:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> nelso?
 [25Jan2025 20:06:07.271] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@791190a6[id=<null>,name=Nelson,properties={},legacy=false] (/192.168.196.185:54416) lost connection: Disconnected
+[25Jan2025 20:07:51.366] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@786959ad[id=<null>,name=Nelson,properties={},legacy=false] (/192.168.196.185:54451) lost connection: Disconnected
+[25Jan2025 20:09:16.367] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55ab2dd8[id=<null>,name=Nelson,properties={},legacy=false] (/192.168.196.185:54518) lost connection: Disconnected
