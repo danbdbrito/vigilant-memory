@@ -232,3 +232,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 20:55:02.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
 [25Jan2025 20:55:58.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=88, z=63} BlockPos{x=114, y=86, z=64}
 [25Jan2025 20:59:10.025] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Wolf['Wolf'/1192, l='ServerLevel[Nuevo_Mundo]', x=180.57, y=113.00, z=288.04]
+[25Jan2025 21:12:04.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Timed out
+[25Jan2025 21:12:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
+[25Jan2025 21:12:04.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jan2025 21:20:25.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:58951] logged in with entity id 3671 at (207.53879888171133, 88.0, 57.069948947467424)
+[25Jan2025 21:20:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
