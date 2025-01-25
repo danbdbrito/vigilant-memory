@@ -264,3 +264,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 04:21:02.121] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [25Jan2025 04:21:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> wena xD
 [25Jan2025 04:21:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ahi to down
+[25Jan2025 04:21:20.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> as,dmjak dale q a mi me sale uno generico
+[25Jan2025 04:22:31.694] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [reevesfurniture:reevesfurniture,cfm:network,creativecore:main] rejected vanilla connections
+[25Jan2025 04:22:31.695] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[25Jan2025 04:23:24.912] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [reevesfurniture:reevesfurniture,cfm:network,creativecore:main] rejected vanilla connections
+[25Jan2025 04:23:24.912] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[25Jan2025 04:25:12.371] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [reevesfurniture:reevesfurniture,cfm:network,creativecore:main] rejected vanilla connections
+[25Jan2025 04:25:12.371] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[25Jan2025 04:27:26.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
+[25Jan2025 04:27:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[25Jan2025 04:27:47.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:52629] logged in with entity id 2640 at (188.40631967715706, 88.0, 105.5661752978094)
+[25Jan2025 04:27:47.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
+[25Jan2025 04:28:47.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
+[25Jan2025 04:28:47.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[25Jan2025 04:29:10.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:52632] logged in with entity id 2798 at (201.93709830835283, 88.0, 99.51979151196835)
+[25Jan2025 04:29:10.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
+[25Jan2025 04:29:40.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
+[25Jan2025 04:29:40.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[25Jan2025 04:30:45.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:52646] logged in with entity id 3028 at (201.93709830835283, 88.0, 99.51979151196835)
+[25Jan2025 04:30:45.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
