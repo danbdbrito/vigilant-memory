@@ -1753,3 +1753,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 23:06:10.293] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=305, y=161, z=155}) doesn't have enough leaves around top most log
 [25Jan2025 23:06:11.137] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=305, y=159, z=156}) doesn't have enough leaves around top most log
 [25Jan2025 23:06:11.941] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=305, y=160, z=155}) doesn't have enough leaves around top most log
+[25Jan2025 23:07:23.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 23:07:23.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 23:12:23.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[25Jan2025 23:12:23.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[25Jan2025 23:15:15.685] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 9d893ba2-7011-49f4-8e03-f0a53971af38
+[25Jan2025 23:15:15.687] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 46 Y: 45 Z: -7
+[25Jan2025 23:15:15.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis fell from a high place
