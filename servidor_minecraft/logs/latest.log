@@ -242,3 +242,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [25Jan2025 19:47:39.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.426s)! For help, type "help"
 [25Jan2025 19:47:39.356] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [25Jan2025 19:47:39.357] [Server thread/INFO] [net.stardustlabs.amplifiednether.AmplifiedNether/]: Thanks for choosing AmplifiedNether!
+[25Jan2025 20:00:30.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:60554] logged in with entity id 120 at (207.22852974932027, 88.0, 57.488252571577284)
+[25Jan2025 20:00:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
+[25Jan2025 20:02:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> nelso?
+[25Jan2025 20:06:07.271] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@791190a6[id=<null>,name=Nelson,properties={},legacy=false] (/192.168.196.185:54416) lost connection: Disconnected
