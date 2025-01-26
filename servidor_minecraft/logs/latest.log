@@ -234,3 +234,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 05:01:05.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID ced25d70-12ca-4a86-881d-72c2fa9a2f8f
 [26Jan2025 05:01:05.383] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2817 Y: 72 Z: 103
 [26Jan2025 05:01:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was slain by Zombie
+[26Jan2025 05:43:05.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14862ms or 297 ticks behind
+[26Jan2025 06:20:00.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Disconnected
+[26Jan2025 06:20:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
