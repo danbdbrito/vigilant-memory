@@ -2248,3 +2248,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 22:12:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ASI ES LA COSA
 [26Jan2025 22:12:33.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
 [26Jan2025 22:12:33.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 22:12:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> na k hacerle
+[26Jan2025 22:14:03.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 753df0b7-2a06-41db-905d-906fc4034203
+[26Jan2025 22:14:03.553] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -378 Y: 63 Z: -1360
+[26Jan2025 22:14:03.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was blown up by Creeper
+[26Jan2025 22:17:33.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 22:17:33.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 22:18:53.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> por fin
+[26Jan2025 22:19:32.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ahora tenemos concectado la aldea y la casa y abajo toy haciendo la granja de xp
+[26Jan2025 22:19:42.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> BUENA, SALVAO
+[26Jan2025 22:20:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> LA DEL EXP ES DE ESQUELETO?
+[26Jan2025 22:20:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> de zombies
+[26Jan2025 22:20:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> UNA DE ESQUELETO PO CHORO
+[26Jan2025 22:20:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en la aldea no hay base po
+[26Jan2025 22:20:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> AAA DALE
+[26Jan2025 22:22:33.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 22:22:33.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 22:24:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> avisen igual si van a usar el raíl pq es medio largo y pueden chocar xD
+[26Jan2025 22:24:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> vamos a tomar t
+[26Jan2025 22:27:33.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 22:27:33.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 22:29:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jan2025 22:29:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jan2025 22:29:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jan2025 22:29:12.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:overworld
+[26Jan2025 22:29:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:the_nether
+[26Jan2025 22:29:12.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Nuevo_Mundo]'/minecraft:the_end
+[26Jan2025 22:29:12.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 22:29:12.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 22:29:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Nuevo_Mundo): All chunks are saved
+[26Jan2025 22:29:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jan2025 22:29:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jan2025 22:29:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jan2025 22:29:12.870] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
