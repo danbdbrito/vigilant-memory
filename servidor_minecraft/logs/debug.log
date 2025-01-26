@@ -1912,3 +1912,131 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 00:59:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> los tiras con la q
 [26Jan2025 01:01:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nelson has made the advancement [Ice Bucket Challenge]
 [26Jan2025 01:03:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> vamops
+[26Jan2025 01:03:41.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 01:03:41.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 01:04:01.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> te equipas la comida
+[26Jan2025 01:04:03.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> eso
+[26Jan2025 01:04:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nelson> que hago con las cosa que tiraban y como las dropeo ?
+[26Jan2025 01:04:57.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ahi
+[26Jan2025 01:05:05.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> clic derecho
+[26Jan2025 01:05:21.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> te pones sobre el objeto
+[26Jan2025 01:05:31.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> apretas shift+clic derecho
+[26Jan2025 01:06:27.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nelson> que es esto ?
+[26Jan2025 01:07:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> dormir
+[26Jan2025 01:07:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ponlo y le das clic derecho
+[26Jan2025 01:07:37.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nelson> rayos XD
+[26Jan2025 01:08:41.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 01:08:41.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 01:09:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> clic derecho al caballo
+[26Jan2025 01:10:19.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> al con armadura
+[26Jan2025 01:10:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> 77
+[26Jan2025 01:10:59.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.32566380404003326
+[26Jan2025 01:10:59.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.268057956919904
+[26Jan2025 01:10:59.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3761998645939286
+[26Jan2025 01:10:59.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3205984834186495
+[26Jan2025 01:10:59.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.26501175776428454
+[26Jan2025 01:10:59.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.7094188209050571
+[26Jan2025 01:10:59.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.153813101511986
+[26Jan2025 01:10:59.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.5981333807785632
+[26Jan2025 01:10:59.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.8978351859343547
+[26Jan2025 01:10:59.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 2.264715904752819
+[26Jan2025 01:10:59.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 2.667650896345293
+[26Jan2025 01:10:59.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 3.08987781045451
+[26Jan2025 01:10:59.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 3.5224274476629773
+[26Jan2025 01:10:59.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 3.753876134423848
+[26Jan2025 01:10:59.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 3.8777197121206086
+[26Jan2025 01:10:59.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.6998878445123182
+[26Jan2025 01:10:59.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.6998878445123182
+[26Jan2025 01:10:59.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2533832761549206
+[26Jan2025 01:11:00.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.5503949835622564
+[26Jan2025 01:11:00.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3655931323476125
+[26Jan2025 01:11:00.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.8059405567961448
+[26Jan2025 01:11:00.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.2481968700735706
+[26Jan2025 01:11:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3641920366935665
+[26Jan2025 01:11:01.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3084656542175708
+[26Jan2025 01:11:01.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2527522464417302
+[26Jan2025 01:11:01.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3081407306340225
+[26Jan2025 01:11:01.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.25207492341232296
+[26Jan2025 01:11:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.30773034539825517
+[26Jan2025 01:11:02.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.25182698173600215
+[26Jan2025 01:11:02.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2515485364309029
+[26Jan2025 01:11:03.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3607554013897811
+[26Jan2025 01:11:03.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.30508427413565187
+[26Jan2025 01:11:03.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3053512451072038
+[26Jan2025 01:11:04.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.35982537645892876
+[26Jan2025 01:11:04.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3041272820469203
+[26Jan2025 01:11:04.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.30412635723945414
+[26Jan2025 01:11:04.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.30414005690002455
+[26Jan2025 01:11:04.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.35897897646424326
+[26Jan2025 01:11:05.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3033357718764762
+[26Jan2025 01:11:05.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.30333602704919826
+[26Jan2025 01:11:05.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.35842360732465295
+[26Jan2025 01:11:05.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.30286120963228313
+[26Jan2025 01:11:06.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3027632805512894
+[26Jan2025 01:11:06.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.35761196519240457
+[26Jan2025 01:11:06.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.8019697694076626
+[26Jan2025 01:11:06.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.246327568414813
+[26Jan2025 01:11:07.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.35605222046683593
+[26Jan2025 01:11:07.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3004100134799046
+[26Jan2025 01:11:07.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3004100134799046
+[26Jan2025 01:11:08.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.35527235758445386
+[26Jan2025 01:11:08.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2996301505975225
+[26Jan2025 01:11:08.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2996406319057314
+[26Jan2025 01:11:10.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3398021223188721
+[26Jan2025 01:11:10.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2814515986436845
+[26Jan2025 01:11:11.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2804160753211704
+[26Jan2025 01:11:12.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3773027121018231
+[26Jan2025 01:11:12.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3212074725577736
+[26Jan2025 01:11:12.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2651122330840394
+[26Jan2025 01:11:12.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3212074729725032
+[26Jan2025 01:11:12.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.26505517141271184
+[26Jan2025 01:11:15.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3349883868372814
+[26Jan2025 01:11:15.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.27436891491612414
+[26Jan2025 01:11:15.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.7136457267895082
+[26Jan2025 01:11:15.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.27781965055061164
+[26Jan2025 01:11:15.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.720415519242863
+[26Jan2025 01:11:15.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.1636199178828264
+[26Jan2025 01:11:29.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3234144995485906
+[26Jan2025 01:11:29.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2609483350181705
+[26Jan2025 01:11:29.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.26377215928430076
+[26Jan2025 01:11:30.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.37254578359574
+[26Jan2025 01:11:30.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3168766864034751
+[26Jan2025 01:11:30.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.26125372725853424
+[26Jan2025 01:11:30.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.31610901137717917
+[26Jan2025 01:11:30.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2596832193435006
+[26Jan2025 01:11:31.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.26069193364294563
+[26Jan2025 01:11:31.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3719466863592231
+[26Jan2025 01:11:31.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.3161871122572535
+[26Jan2025 01:11:31.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.26001021158383253
+[26Jan2025 01:11:31.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.31419130121406624
+[26Jan2025 01:11:31.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.25742778760026397
+[26Jan2025 01:11:31.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.314789450784275
+[26Jan2025 01:11:32.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2592343126874681
+[26Jan2025 01:11:32.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.2585614731795687
+[26Jan2025 01:11:32.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.36402324511891493
+[26Jan2025 01:11:32.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 0.8076728892267084
+[26Jan2025 01:11:32.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Nelson) moved wrongly! 1.2514138488041482
+[26Jan2025 01:11:46.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> equipate la rienda
+[26Jan2025 01:11:58.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> baja del caballo
+[26Jan2025 01:12:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> clic derecho a tu caballo
+[26Jan2025 01:12:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ahora al palo
+[26Jan2025 01:13:41.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 01:13:41.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 01:15:06.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> vamos?¡
+[26Jan2025 01:15:28.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nelson has made the advancement [Isn't It Iron Pick]
+[26Jan2025 01:15:39.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> vamos a buscar cuarzo
+[26Jan2025 01:15:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> espera
+[26Jan2025 01:17:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> xd
+[26Jan2025 01:18:41.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 01:18:41.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 01:19:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ven
+[26Jan2025 01:20:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> mira
+[26Jan2025 01:20:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nelson> ay que bajar ?
+[26Jan2025 01:20:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> arriba
+[26Jan2025 01:20:45.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> aca po
+[26Jan2025 01:20:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ves esos que tienen
+[26Jan2025 01:21:02.469] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 44b5e7dc-3457-46e3-834f-b53475f6a8f4
+[26Jan2025 01:21:02.471] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 19 Y: 29 Z: -14
+[26Jan2025 01:21:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis tried to swim in lava
+[26Jan2025 01:21:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ahora ve tu que haces
+[26Jan2025 01:21:25.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> no juego mas contigo ql
