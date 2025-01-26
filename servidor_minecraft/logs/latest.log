@@ -231,3 +231,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 03:46:43.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
 [26Jan2025 03:47:18.092] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/490, l='ServerLevel[Nuevo_Mundo]', x=486.74, y=86.29, z=-64.46]
 [26Jan2025 03:56:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was slain by Spider
+[26Jan2025 05:01:05.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID ced25d70-12ca-4a86-881d-72c2fa9a2f8f
+[26Jan2025 05:01:05.383] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2817 Y: 72 Z: 103
+[26Jan2025 05:01:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was slain by Zombie
