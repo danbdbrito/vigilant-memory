@@ -5793,12 +5793,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:persian": "2025-01-26 17:30:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-01-26 17:27:51 +0000"
@@ -5822,6 +5816,12 @@
       "has_planks": "2025-01-26 17:27:51 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2025-01-26 17:30:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3337
 }

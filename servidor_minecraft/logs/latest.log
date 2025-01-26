@@ -356,3 +356,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 17:44:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
 [26Jan2025 17:44:49.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Disconnected
 [26Jan2025 17:44:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
+[26Jan2025 17:59:15.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lkarakol[/192.168.196.168:58233] logged in with entity id 22641 at (-426.3622094150853, 44.0, -1378.6524843587158)
+[26Jan2025 17:59:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol joined the game
