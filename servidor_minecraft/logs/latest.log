@@ -345,3 +345,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 17:37:43.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tu teni otra en el inventario po xD cuando te la saqué
 [26Jan2025 17:38:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> parece que fuera tonta esta mierda
 [26Jan2025 17:38:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xD
+[26Jan2025 17:40:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> dungeon
+[26Jan2025 17:40:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> voy se me petateo el pc
+[26Jan2025 17:42:24.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> fcita
+[26Jan2025 17:44:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> vamos a almorzar
+[26Jan2025 17:44:40.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ok
+[26Jan2025 17:44:43.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lkarakol lost connection: Disconnected
+[26Jan2025 17:44:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol left the game
+[26Jan2025 17:44:45.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Disconnected
+[26Jan2025 17:44:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[26Jan2025 17:44:49.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Disconnected
+[26Jan2025 17:44:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
