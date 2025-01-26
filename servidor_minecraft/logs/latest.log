@@ -227,3 +227,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 16:52:31.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lkarakol[/192.168.196.168:59076] logged in with entity id 79 at (193.35401661611937, 88.0, 59.05406143554099)
 [26Jan2025 16:52:31.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol joined the game
 [26Jan2025 16:52:51.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lkarakol moved too quickly! 2.726221502035486,0.0,-9.657144405485475
+[26Jan2025 17:00:55.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:51592] logged in with entity id 1934 at (7800.062620583002, 118.0, -1278.132702858626)
+[26Jan2025 17:00:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
+[26Jan2025 17:00:58.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[26Jan2025 17:03:20.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60227] logged in with entity id 3057 at (299.7788880807069, 158.0, 145.1718059430152)
+[26Jan2025 17:03:20.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
+[26Jan2025 17:04:20.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
+[26Jan2025 17:04:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[26Jan2025 17:04:20.761] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jan2025 17:05:30.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-349, y=58, z=-287} BlockPos{x=-349, y=59, z=-287}
+[26Jan2025 17:07:50.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3fe3472e[id=<null>,name=Oliverpenguin5,properties={},legacy=false] (/192.168.196.190:60312): Took too long to log in
+[26Jan2025 17:07:50.882] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fe3472e[id=<null>,name=Oliverpenguin5,properties={},legacy=false] (/192.168.196.190:60312) lost connection: Took too long to log in
+[26Jan2025 17:07:50.903] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jan2025 17:08:35.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60348] logged in with entity id 6219 at (299.7788880807069, 158.0, 145.1718059430152)
+[26Jan2025 17:08:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
+[26Jan2025 17:10:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> q hacen?
+[26Jan2025 17:10:27.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> estoy a la ctm
+[26Jan2025 17:10:32.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xdd
+[26Jan2025 17:10:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tepeame po choro
+[26Jan2025 17:10:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> no me acuerdo como era
+[26Jan2025 17:11:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> se hace en el coso donde escribes con /tp (el que vas a tepear) (a con quien te vasa atepear))
+[26Jan2025 17:11:25.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> */tp oliverpenguin5 lkarakol
+[26Jan2025 17:11:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> sin el
+[26Jan2025 17:11:32.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> *
+[26Jan2025 17:12:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> al final viste alguna dungeon rara en el nether Manco?
+[26Jan2025 17:13:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jan2025 17:13:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oliverpenguin5 Mancoprotesis<--[HERE]
+[26Jan2025 17:14:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> o dame las coordenadas po
+[26Jan2025 17:15:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to Mancoprotesis
+[26Jan2025 17:16:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ven
+[26Jan2025 17:16:02.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tenias la casa marcada?
+[26Jan2025 17:17:39.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> teni comida?
+[26Jan2025 17:17:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toy pobre
+[26Jan2025 17:17:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> pura carne cruda
+[26Jan2025 17:17:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tamos en la seca
+[26Jan2025 17:17:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> xD
+[26Jan2025 17:18:15.456] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for lkarakol with unique ID 4fdcda2d-6504-4085-a595-6b89053f0d03
+[26Jan2025 17:18:15.458] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -421 Y: 68 Z: -1275
+[26Jan2025 17:18:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol was shot by Skeleton
