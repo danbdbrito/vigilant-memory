@@ -31,6 +31,7 @@
       "minecraft:ocean": "2025-01-19 04:17:00 +0000",
       "minecraft:windswept_savanna": "2025-01-26 02:55:31 +0000",
       "minecraft:flower_forest": "2025-01-20 05:33:16 +0000",
+      "minecraft:frozen_peaks": "2025-01-26 05:34:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 04:11:34 +0000",
       "minecraft:meadow": "2025-01-19 04:24:38 +0000",
       "minecraft:savanna": "2025-01-19 04:22:35 +0000",
@@ -967,6 +968,7 @@
       "cooked_mutton": "2025-01-18 17:47:45 +0000",
       "cooked_beef": "2025-01-19 04:11:56 +0000",
       "baked_potato": "2025-01-18 17:46:57 +0000",
+      "beef": "2025-01-26 05:27:21 +0000",
       "apple": "2025-01-20 01:43:27 +0000",
       "potato": "2025-01-19 05:16:03 +0000",
       "golden_apple": "2025-01-19 04:39:05 +0000",
@@ -6001,6 +6003,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-26 05:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-26 05:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-26 05:08:40 +0000"
@@ -6010,6 +6024,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-01-26 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-26 05:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-26 05:33:20 +0000"
     },
     "done": true
   },
