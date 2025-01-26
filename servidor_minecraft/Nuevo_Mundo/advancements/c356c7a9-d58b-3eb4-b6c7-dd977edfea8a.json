@@ -5538,18 +5538,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-25 23:49:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-01-25 23:49:40 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/white_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-01-25 23:12:35 +0000"
@@ -5559,12 +5547,6 @@
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_log": "2025-01-25 23:49:40 +0000"
     },
     "done": true
   },
@@ -5586,27 +5568,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_cabinet": {
-    "criteria": {
-      "has_log": "2025-01-25 23:49:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-01-25 23:49:40 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_table": {
-    "criteria": {
-      "has_log": "2025-01-25 23:49:40 +0000"
     },
     "done": true
   },
@@ -5628,15 +5592,105 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_park_bench": {
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-25 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-25 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-25 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-25 23:49:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/white_picket_fence": {
+  "cfm:recipes/decorations/crimson_desk": {
     "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
+      "has_log": "2025-01-25 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-25 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-25 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-01-25 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-25 23:49:40 +0000"
     },
     "done": true
   },
@@ -5655,12 +5709,6 @@
   "cfm:recipes/decorations/crimson_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-25 23:49:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
     },
     "done": true
   },
@@ -5700,30 +5748,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/pink_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-25 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-01-25 23:49:40 +0000"
@@ -5733,12 +5757,6 @@
   "cfm:recipes/decorations/stripped_crimson_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-25 23:49:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/orange_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
     },
     "done": true
   },
@@ -5766,33 +5784,45 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/light_blue_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-01-25 23:12:35 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_park_bench": {
     "criteria": {
       "has_log": "2025-01-25 23:49:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-25 23:17:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/crimson_coffee_table": {
     "criteria": {
       "has_log": "2025-01-25 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-26 00:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-26 00:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-26 00:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-26 00:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-26 00:35:38 +0000"
     },
     "done": true
   },
