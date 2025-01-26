@@ -487,3 +487,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 20:39:32.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60682] logged in with entity id 67342 at (-420.9266598794846, 63.9375, -1382.7559788866297)
 [26Jan2025 20:39:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
 [26Jan2025 20:41:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> VEN A QUEMAR
+[26Jan2025 20:42:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to 201.500000, 88.000000, 53.500000
+[26Jan2025 20:42:49.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Disconnected
+[26Jan2025 20:42:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[26Jan2025 20:42:59.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported lkarakol to 201.500000, 88.000000, 53.500000
+[26Jan2025 20:47:57.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60702] logged in with entity id 70260 at (201.5, 88.0, 53.5)
+[26Jan2025 20:47:57.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
