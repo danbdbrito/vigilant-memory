@@ -411,3 +411,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 01:50:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiehV> pero sigo igual de puto con la skin :C
 [26Jan2025 01:51:07.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiehV lost connection: Disconnected
 [26Jan2025 01:51:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiehV left the game
+[26Jan2025 01:55:11.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiehV[/192.168.196.185:54900] logged in with entity id 18867 at (15.862020029845567, 75.0, -29.718430525726586)
+[26Jan2025 01:55:11.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiehV joined the game
+[26Jan2025 01:59:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiehV has made the advancement [Stone Age]
+[26Jan2025 02:00:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> que haces
+[26Jan2025 02:00:34.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiehV> vi un mono que me tira bombas o no se que y me escondi jeje esta mal ?
+[26Jan2025 02:01:05.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiehV has made the advancement [Getting an Upgrade]
