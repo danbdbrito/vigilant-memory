@@ -1852,3 +1852,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 02:33:27.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiehV[/192.168.196.185:56168] logged in with entity id 2467 at (392.69999998807907, 107.0, 200.94270507071158)
 [26Jan2025 02:33:27.641] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3c1a2f90 into net.minecraft.network.Connection@262f1e7d
 [26Jan2025 02:33:27.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiehV joined the game
+[26Jan2025 02:35:59.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 02:35:59.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 02:40:59.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[26Jan2025 02:40:59.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[26Jan2025 02:44:03.238] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-453 | 16 | 603)
+[26Jan2025 02:44:03.245] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-453 | 16 | 603)
+[26Jan2025 02:44:03.245] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (-458 | 16 | 607)
+[26Jan2025 02:44:03.245] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (-458 | 16 | 607)
+[26Jan2025 02:44:03.245] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (-464 | 16 | 603)
+[26Jan2025 02:44:03.246] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (-464 | 16 | 603)
+[26Jan2025 02:44:35.913] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-451 | 25 | 616)
+[26Jan2025 02:44:35.914] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-451 | 25 | 616)
+[26Jan2025 02:44:35.914] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (-458 | 21 | 609)
+[26Jan2025 02:44:35.914] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (-458 | 21 | 609)
+[26Jan2025 02:44:35.914] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-464 | 16 | 614)
+[26Jan2025 02:44:35.920] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-464 | 16 | 614)
+[26Jan2025 02:44:35.920] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-463 | 16 | 608)
+[26Jan2025 02:44:35.921] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-463 | 16 | 608)
+[26Jan2025 02:44:35.924] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-459 | 16 | 620)
+[26Jan2025 02:44:35.924] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-459 | 16 | 620)
+[26Jan2025 02:44:35.924] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (-464 | 16 | 603)
+[26Jan2025 02:44:35.929] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (-464 | 16 | 603)
