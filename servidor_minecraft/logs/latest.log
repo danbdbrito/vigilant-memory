@@ -1,42 +1,42 @@
-[26Jan2025 16:48:42.094] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
-[26Jan2025 16:48:42.099] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[26Jan2025 16:48:42.497] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/vigilant-memory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[26Jan2025 16:48:42.838] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.0/fmlcore-1.19.4-45.3.0.jar is missing mods.toml file
-[26Jan2025 16:48:42.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.0/javafmllanguage-1.19.4-45.3.0.jar is missing mods.toml file
-[26Jan2025 16:48:42.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.0/lowcodelanguage-1.19.4-45.3.0.jar is missing mods.toml file
-[26Jan2025 16:48:42.842] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.0/mclanguage-1.19.4-45.3.0.jar is missing mods.toml file
-[26Jan2025 16:48:42.931] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[26Jan2025 16:48:44.885] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26Jan2025 16:48:44.949] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[26Jan2025 16:48:44.954] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[26Jan2025 16:48:45.074] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[26Jan2025 16:48:45.076] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[26Jan2025 16:48:45.076] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[26Jan2025 16:48:45.084] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[26Jan2025 16:48:45.084] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[26Jan2025 16:48:45.085] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[26Jan2025 16:48:45.165] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[26Jan2025 16:48:45.166] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[26Jan2025 16:48:53.570] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[26Jan2025 16:48:53.609] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.0, for MC 1.19.4 with MCP 20230314.122934
-[26Jan2025 16:48:53.609] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.0 Initialized
-[26Jan2025 16:48:56.514] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[26Jan2025 16:48:56.768] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[26Jan2025 16:48:56.769] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[26Jan2025 16:48:56.771] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[26Jan2025 16:48:56.771] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[26Jan2025 16:48:56.773] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[26Jan2025 16:48:56.778] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[26Jan2025 16:48:56.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26Jan2025 16:48:57.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 45.3.0 Target: null
-[26Jan2025 16:48:57.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[26Jan2025 16:48:58.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
-[26Jan2025 16:48:58.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[26Jan2025 16:48:58.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 8.4.20 Target: null
-[26Jan2025 16:49:03.582] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26Jan2025 16:49:08.077] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
-[26Jan2025 16:49:08.077] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
-[26Jan2025 16:49:09.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:plant_pot_two_recipe
+[26Jan2025 21:21:41.511] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
+[26Jan2025 21:21:41.515] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[26Jan2025 21:21:42.072] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/vigilant-memory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[26Jan2025 21:21:42.491] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.0/fmlcore-1.19.4-45.3.0.jar is missing mods.toml file
+[26Jan2025 21:21:42.494] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.0/javafmllanguage-1.19.4-45.3.0.jar is missing mods.toml file
+[26Jan2025 21:21:42.496] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.0/lowcodelanguage-1.19.4-45.3.0.jar is missing mods.toml file
+[26Jan2025 21:21:42.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.0/mclanguage-1.19.4-45.3.0.jar is missing mods.toml file
+[26Jan2025 21:21:42.620] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[26Jan2025 21:21:44.858] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Jan2025 21:21:44.936] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[26Jan2025 21:21:44.940] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Jan2025 21:21:45.029] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[26Jan2025 21:21:45.030] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[26Jan2025 21:21:45.030] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[26Jan2025 21:21:45.033] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[26Jan2025 21:21:45.034] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[26Jan2025 21:21:45.035] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[26Jan2025 21:21:45.107] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[26Jan2025 21:21:45.108] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[26Jan2025 21:21:54.048] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[26Jan2025 21:21:54.105] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.0, for MC 1.19.4 with MCP 20230314.122934
+[26Jan2025 21:21:54.109] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.0 Initialized
+[26Jan2025 21:21:56.849] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[26Jan2025 21:21:57.099] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[26Jan2025 21:21:57.100] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[26Jan2025 21:21:57.102] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[26Jan2025 21:21:57.102] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[26Jan2025 21:21:57.105] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[26Jan2025 21:21:57.109] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[26Jan2025 21:21:57.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Jan2025 21:21:57.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 45.3.0 Target: null
+[26Jan2025 21:21:57.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[26Jan2025 21:21:58.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[26Jan2025 21:21:58.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[26Jan2025 21:21:58.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 8.4.20 Target: null
+[26Jan2025 21:22:03.910] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Jan2025 21:22:08.692] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
+[26Jan2025 21:22:08.692] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/vigilant-memory/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
+[26Jan2025 21:22:10.721] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:plant_pot_two_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
@@ -67,7 +67,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:deleted_mod_e
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26Jan2025 16:49:09.554] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:crimson_shelf_recipe
+[26Jan2025 21:22:10.737] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:crimson_shelf_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_crimson_shelf'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
@@ -98,7 +98,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_crimson_sh
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26Jan2025 16:49:09.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:jungle_shelf_recipe
+[26Jan2025 21:22:10.753] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:jungle_shelf_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_jungle_shelf'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
@@ -129,7 +129,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_jungle_she
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26Jan2025 16:49:09.572] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:warped_shelf_recipe
+[26Jan2025 21:22:10.765] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:warped_shelf_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_warped_shelf'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
@@ -160,7 +160,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_warped_she
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26Jan2025 16:49:09.599] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:spruce_shelf_recipe
+[26Jan2025 21:22:10.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe reevesfurniture:spruce_shelf_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_shelf'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.4-45.3.0-universal.jar%23126!/:?]
@@ -191,320 +191,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26Jan2025 16:49:09.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[26Jan2025 16:49:10.018] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2031 advancements
-[26Jan2025 16:49:10.020] [main/INFO] [Dungeon Crawl/]: Loading data...
-[26Jan2025 16:49:10.321] [main/INFO] [Dungeon Crawl/]: Done.
-[26Jan2025 16:49:14.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[26Jan2025 16:49:14.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26Jan2025 16:49:14.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26Jan2025 16:49:14.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26Jan2025 16:49:14.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26Jan2025 16:49:14.359] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26Jan2025 16:49:14.450] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26Jan2025 16:49:14.451] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26Jan2025 16:49:14.451] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26Jan2025 16:49:14.451] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26Jan2025 16:49:14.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "Nuevo_Mundo"
-[26Jan2025 16:49:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Jan2025 16:49:21.706] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.727] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.785] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.880] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.911] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.930] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:21.987] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:22.493] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Jan2025 16:49:22.982] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[26Jan2025 16:49:23.481] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[26Jan2025 16:49:23.752] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6272 ms
-[26Jan2025 16:49:23.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.287s)! For help, type "help"
-[26Jan2025 16:49:23.835] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26Jan2025 16:49:23.835] [Server thread/INFO] [net.stardustlabs.amplifiednether.AmplifiedNether/]: Thanks for choosing AmplifiedNether!
-[26Jan2025 16:52:31.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lkarakol[/192.168.196.168:59076] logged in with entity id 79 at (193.35401661611937, 88.0, 59.05406143554099)
-[26Jan2025 16:52:31.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol joined the game
-[26Jan2025 16:52:51.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lkarakol moved too quickly! 2.726221502035486,0.0,-9.657144405485475
-[26Jan2025 17:00:55.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:51592] logged in with entity id 1934 at (7800.062620583002, 118.0, -1278.132702858626)
-[26Jan2025 17:00:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
-[26Jan2025 17:00:58.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
-[26Jan2025 17:03:20.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60227] logged in with entity id 3057 at (299.7788880807069, 158.0, 145.1718059430152)
-[26Jan2025 17:03:20.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
-[26Jan2025 17:04:20.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
-[26Jan2025 17:04:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
-[26Jan2025 17:04:20.761] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[26Jan2025 17:05:30.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-349, y=58, z=-287} BlockPos{x=-349, y=59, z=-287}
-[26Jan2025 17:07:50.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3fe3472e[id=<null>,name=Oliverpenguin5,properties={},legacy=false] (/192.168.196.190:60312): Took too long to log in
-[26Jan2025 17:07:50.882] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fe3472e[id=<null>,name=Oliverpenguin5,properties={},legacy=false] (/192.168.196.190:60312) lost connection: Took too long to log in
-[26Jan2025 17:07:50.903] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[26Jan2025 17:08:35.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60348] logged in with entity id 6219 at (299.7788880807069, 158.0, 145.1718059430152)
-[26Jan2025 17:08:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
-[26Jan2025 17:10:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> q hacen?
-[26Jan2025 17:10:27.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> estoy a la ctm
-[26Jan2025 17:10:32.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xdd
-[26Jan2025 17:10:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tepeame po choro
-[26Jan2025 17:10:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> no me acuerdo como era
-[26Jan2025 17:11:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> se hace en el coso donde escribes con /tp (el que vas a tepear) (a con quien te vasa atepear))
-[26Jan2025 17:11:25.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> */tp oliverpenguin5 lkarakol
-[26Jan2025 17:11:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> sin el
-[26Jan2025 17:11:32.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> *
-[26Jan2025 17:12:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> al final viste alguna dungeon rara en el nether Manco?
-[26Jan2025 17:13:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[26Jan2025 17:13:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oliverpenguin5 Mancoprotesis<--[HERE]
-[26Jan2025 17:14:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> o dame las coordenadas po
-[26Jan2025 17:15:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to Mancoprotesis
-[26Jan2025 17:16:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ven
-[26Jan2025 17:16:02.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tenias la casa marcada?
-[26Jan2025 17:17:39.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> teni comida?
-[26Jan2025 17:17:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toy pobre
-[26Jan2025 17:17:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> pura carne cruda
-[26Jan2025 17:17:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tamos en la seca
-[26Jan2025 17:17:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> xD
-[26Jan2025 17:18:15.456] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for lkarakol with unique ID 4fdcda2d-6504-4085-a595-6b89053f0d03
-[26Jan2025 17:18:15.458] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -421 Y: 68 Z: -1275
-[26Jan2025 17:18:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol was shot by Skeleton
-[26Jan2025 17:20:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol was shot by Skeleton
-[26Jan2025 17:20:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pero choro que paso
-[26Jan2025 17:20:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a puro escudo teni que tar
-[26Jan2025 17:21:08.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> ando sin equipo
-[26Jan2025 17:21:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aaa
-[26Jan2025 17:21:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> rip
-[26Jan2025 17:22:24.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> NOOO LA CAGUE
-[26Jan2025 17:22:29.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xD le pegue sin querer
-[26Jan2025 17:22:36.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> AAAA LA CAGASTE
-[26Jan2025 17:22:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> txaaa
-[26Jan2025 17:22:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> el ql no subio caleta
-[26Jan2025 17:23:00.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> TENI ARCILLA?
-[26Jan2025 17:23:08.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> nop
-[26Jan2025 17:23:23.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> papel?
-[26Jan2025 17:23:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> teni la casa marcada en el mapa
-[26Jan2025 17:23:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ?
-[26Jan2025 17:23:29.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tengo para hacer
-[26Jan2025 17:23:31.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> si
-[26Jan2025 17:23:39.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aaa wena
-[26Jan2025 17:23:45.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a mi se me borro xd
-[26Jan2025 17:23:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> vamos a la casa?
-[26Jan2025 17:24:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> no querias papel?
-[26Jan2025 17:24:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> tienes ahi?
-[26Jan2025 17:24:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toma
-[26Jan2025 17:25:20.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> libro tienes?
-[26Jan2025 17:25:22.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> nop
-[26Jan2025 17:25:38.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> faltan cofres y demas
-[26Jan2025 17:25:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> marca esta aldea, yo marque hartas cosas ayer
-[26Jan2025 17:26:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> listo
-[26Jan2025 17:27:13.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> choro
-[26Jan2025 17:27:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a
-[26Jan2025 17:27:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> aca tengo mesa por si necesitas
-[26Jan2025 17:27:29.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dle
-[26Jan2025 17:27:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> salen sus botes o no?
-[26Jan2025 17:28:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dale
-[26Jan2025 17:28:43.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> calma deja ver si pillo un par e libros
-[26Jan2025 17:29:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> despues venemos para aca nomas que mas hacia el oeste
-[26Jan2025 17:29:05.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dale
-[26Jan2025 17:29:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> hay otra aldea con dungeon
-[26Jan2025 17:29:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> y el nether?
-[26Jan2025 17:29:33.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> invasion?
-[26Jan2025 17:29:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> nah
-[26Jan2025 17:30:03.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> buen cambio
-[26Jan2025 17:30:05.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> xD
-[26Jan2025 17:30:07.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xD
-[26Jan2025 17:30:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> vamos a la casa po te sigo
-[26Jan2025 17:30:39.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> calma
-[26Jan2025 17:30:42.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[26Jan2025 17:30:49.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ya vamos
-[26Jan2025 17:31:01.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> oye que el brian tiene la huea que le lee
-[26Jan2025 17:31:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dale aslkjd se escucha para aca la voz
-[26Jan2025 17:31:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> marico
-[26Jan2025 17:31:30.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> tengo una aldea con dg
-[26Jan2025 17:31:36.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> vamos pa alla po
-[26Jan2025 17:31:40.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tpeanos ono?
-[26Jan2025 17:31:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> me falta comida si
-[26Jan2025 17:32:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to lkarakol
-[26Jan2025 17:32:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> vamos a casa
-[26Jan2025 17:32:34.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Mancoprotesis to lkarakol
-[26Jan2025 17:32:46.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> por ultimo marcas aca, vamos a la casa y despues nos tepeas po
-[26Jan2025 17:33:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> con las coordenadas tambien puedes tpear, pones la u buscas el que quieras y despues pones las coordenadas en la consola, tipo /tp lkarakol (numeros de las coordenadas con espacios)
-[26Jan2025 17:33:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> que hacen estos
-[26Jan2025 17:34:00.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xdd
-[26Jan2025 17:34:04.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> un gato
-[26Jan2025 17:34:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> los veo wn
-[26Jan2025 17:34:11.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> subamos esta aldea po choros
-[26Jan2025 17:34:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> ya le di salmon
-[26Jan2025 17:34:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> tenemos que defenderla tambien
-[26Jan2025 17:34:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> hay que esconder el golem para que hagan otro
-[26Jan2025 17:34:43.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> la final
-[26Jan2025 17:34:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> y traer hierro
-[26Jan2025 17:35:02.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> pa que tanqueen y nosotros vamos reparando
-[26Jan2025 17:35:27.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> zzzz
-[26Jan2025 17:35:46.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> te cago el aldeano
-[26Jan2025 17:36:48.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> choro
-[26Jan2025 17:36:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en el inventario teni una
-[26Jan2025 17:36:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> cama
-[26Jan2025 17:37:43.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tu teni otra en el inventario po xD cuando te la saqué
-[26Jan2025 17:38:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> parece que fuera tonta esta mierda
-[26Jan2025 17:38:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xD
-[26Jan2025 17:40:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> dungeon
-[26Jan2025 17:40:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> voy se me petateo el pc
-[26Jan2025 17:42:24.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> fcita
-[26Jan2025 17:44:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> vamos a almorzar
-[26Jan2025 17:44:40.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ok
-[26Jan2025 17:44:43.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lkarakol lost connection: Disconnected
-[26Jan2025 17:44:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol left the game
-[26Jan2025 17:44:45.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Disconnected
-[26Jan2025 17:44:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
-[26Jan2025 17:44:49.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Disconnected
-[26Jan2025 17:44:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
-[26Jan2025 17:59:15.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lkarakol[/192.168.196.168:58233] logged in with entity id 22641 at (-426.3622094150853, 44.0, -1378.6524843587158)
-[26Jan2025 17:59:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol joined the game
-[26Jan2025 18:02:28.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:52422] logged in with entity id 23778 at (-420.30000001192093, 44.0, -1370.4465876250551)
-[26Jan2025 18:02:28.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
-[26Jan2025 18:04:36.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60497] logged in with entity id 24318 at (-424.63621535630807, 44.0, -1355.341802197712)
-[26Jan2025 18:04:36.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
-[26Jan2025 18:05:59.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> saquense las flechas igual
-[26Jan2025 18:07:52.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
-[26Jan2025 18:07:52.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
-[26Jan2025 18:08:44.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60508] logged in with entity id 25652 at (-389.50913541931993, 35.0, -1422.3188122967474)
-[26Jan2025 18:08:44.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
-[26Jan2025 18:09:57.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> csm
-[26Jan2025 18:10:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> casi
-[26Jan2025 18:10:10.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> donde no colocas antorchas
-[26Jan2025 18:10:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> es que yo rompo los spawn
-[26Jan2025 18:10:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pal xp xD
-[26Jan2025 18:10:40.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> claro pero cuando esta oscuro aparecen los mobs
-[26Jan2025 18:10:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> vd
-[26Jan2025 18:12:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol was slain by Cave Spider
-[26Jan2025 18:13:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> txa
-[26Jan2025 18:13:37.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> me quedo alado pa que te tepees?
-[26Jan2025 18:20:57.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol hit the ground too hard whilst trying to escape Stray
-[26Jan2025 18:23:21.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> atras
-[26Jan2025 18:27:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pa q necesitan el hueso?
-[26Jan2025 18:27:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aaaa
-[26Jan2025 18:27:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en el nether hay de esos bloques po
-[26Jan2025 18:30:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> sale mas barato sacar arcilla por esmeralda po
-[26Jan2025 18:30:55.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a
-[26Jan2025 18:31:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> tengo un stack lleno de arcilla y como 5 en bloque
-[26Jan2025 18:32:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol has made the advancement [What a Deal!]
-[26Jan2025 18:40:08.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> a mimir
-[26Jan2025 18:49:32.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> vamos nibba
-[26Jan2025 18:49:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> oye no me quedo claro, puedo romper los spawn o los dejo?
-[26Jan2025 18:50:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> romperlos por lvl pero deja ilimindado para que no salgan mobs
-[26Jan2025 18:50:19.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dle
-[26Jan2025 18:52:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pa onde me perdi
-[26Jan2025 18:52:42.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a ya cache
-[26Jan2025 18:52:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> tu estabas ahi bien yo vine sapear
-[26Jan2025 18:52:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toy en el tercer piso
-[26Jan2025 18:53:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aca hay un spawn de zombies base
-[26Jan2025 18:53:13.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ese lo dejo ono?
-[26Jan2025 18:54:01.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Oliverpenguin5 with unique ID 4ca9ca9f-87cc-4cc3-a79a-fb68492b525d
-[26Jan2025 18:54:01.704] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -411 Y: 26 Z: -1390
-[26Jan2025 18:54:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 was slain by Cave Spider
-[26Jan2025 18:54:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> pera
-[26Jan2025 18:54:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to lkarakol
-[26Jan2025 18:57:08.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> tienes madera?
-[26Jan2025 18:57:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> de la normal si, no troncos
-[26Jan2025 18:57:46.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> pasa poz
-[26Jan2025 18:57:48.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aca tenemos calabazas para los folem
-[26Jan2025 18:58:00.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> semillas
-[26Jan2025 18:58:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> voy a marcar este spawn pa hacer graja de xp
-[26Jan2025 19:01:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> donde tas
-[26Jan2025 19:01:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> niba
-[26Jan2025 19:01:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en la escalera
-[26Jan2025 19:04:39.657] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Oliverpenguin5 with unique ID 75141f93-243e-4435-9a5d-992f690868d8
-[26Jan2025 19:04:39.659] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -408 Y: 17 Z: -1376
-[26Jan2025 19:04:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 was slain by Zombie
-[26Jan2025 19:05:00.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> choro en la consola si apretas la flecha pa arriba te salen los codigos de una que escribiste recien
-[26Jan2025 19:05:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol was slain by Zombie
-[26Jan2025 19:05:13.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> yaa que onda
-[26Jan2025 19:06:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aca se baja
-[26Jan2025 19:10:09.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> un spawn de endermas
-[26Jan2025 19:10:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> enderman's
-[26Jan2025 19:10:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> uuu con ese estaria bueno
-[26Jan2025 19:10:42.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> igual lo marco
-[26Jan2025 19:13:36.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22650, l='ServerLevel[Nuevo_Mundo]', x=-418.30, y=65.00, z=-1353.30] died, message: 'Villager was slain by Zombie'
-[26Jan2025 19:15:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> cuanta obsidiana se necesita para el portal?
-[26Jan2025 19:15:25.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> 8 creo
-[26Jan2025 19:15:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> 10
-[26Jan2025 19:21:01.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID c3f5ed60-63cf-4e68-a289-51f0ac6078e3
-[26Jan2025 19:21:01.899] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -423 Y: 64 Z: -1357
-[26Jan2025 19:21:01.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was burnt to a crisp whilst fighting Skeleton
-[26Jan2025 19:26:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> era parece
-[26Jan2025 19:26:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> go
-[26Jan2025 19:29:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> haz el portal
-[26Jan2025 19:30:47.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a?
-[26Jan2025 19:30:54.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xD
-[26Jan2025 19:30:58.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> su pollo asao
-[26Jan2025 19:31:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> aa el golem
-[26Jan2025 19:40:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 has reached the goal [Hired Help]
-[26Jan2025 19:40:56.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ahi hice el golem
-[26Jan2025 19:41:25.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> que hacemos ahora?
-[26Jan2025 19:41:39.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> tienen libros
-[26Jan2025 19:41:44.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> en la casa hay
-[26Jan2025 19:42:34.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> voy x los de la dg
-[26Jan2025 19:42:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dale
-[26Jan2025 19:43:49.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> マインクラフト
-[26Jan2025 19:44:02.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> chinchejuanchin
-[26Jan2025 19:44:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> マインクラフト
-[26Jan2025 19:44:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> マインクラフト
-[26Jan2025 19:48:58.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> chinchejuanchin
-[26Jan2025 19:49:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> maincraftu
-[26Jan2025 19:49:46.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> Mainkurafuto
-[26Jan2025 20:04:32.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> hazme tp
-[26Jan2025 20:04:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to lkarakol
-[26Jan2025 20:07:08.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol has made the advancement [Take Aim]
-[26Jan2025 20:07:26.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol has made the advancement [Into Fire]
-[26Jan2025 20:14:11.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> teni la mochila mejorada?
-[26Jan2025 20:14:20.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> NOP
-[26Jan2025 20:14:29.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> teni hierro?
-[26Jan2025 20:14:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> necesito 3
-[26Jan2025 20:14:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> NO
-[26Jan2025 20:14:44.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> rip
-[26Jan2025 20:15:13.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pasame tu mochila
-[26Jan2025 20:16:29.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ahi falta 1 level nomas
-[26Jan2025 20:18:33.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis has reached the goal [Hired Help]
-[26Jan2025 20:18:45.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> DONDE HABRA NETHERITA
-[26Jan2025 20:18:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> dentro de la tierra pero no se en que altura
-[26Jan2025 20:20:15.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> necesitas flechas
-[26Jan2025 20:20:16.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ?
-[26Jan2025 20:21:17.406] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for lkarakol with unique ID 6431bdd1-d872-4d9f-bdb7-e44e86fe699d
-[26Jan2025 20:21:17.409] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 99 Y: 64 Z: -145
-[26Jan2025 20:21:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol was slain by Wither Skeleton
-[26Jan2025 20:21:28.157] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Oliverpenguin5 with unique ID d7b3488b-a87d-4910-85f1-bea82d34a914
-[26Jan2025 20:21:28.158] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 105 Y: 67 Z: -144
-[26Jan2025 20:21:28.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 was slain by Zombified Piglin
-[26Jan2025 20:23:10.895] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 84b44eb2-1c34-4523-ae09-2ab55208dcaa
-[26Jan2025 20:23:10.896] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -421 Y: 66 Z: -1288
-[26Jan2025 20:23:10.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis was blown up by Creeper
-[26Jan2025 20:23:18.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 has made the advancement [Into Fire]
-[26Jan2025 20:28:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xD
-[26Jan2025 20:28:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> fuimos a puro morir
-[26Jan2025 20:28:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> 5 xd
-[26Jan2025 20:29:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pociones creo
-[26Jan2025 20:29:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tepeemonos po, necesitamos las coordenadas
-[26Jan2025 20:38:59.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
-[26Jan2025 20:38:59.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
-[26Jan2025 20:39:32.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60682] logged in with entity id 67342 at (-420.9266598794846, 63.9375, -1382.7559788866297)
-[26Jan2025 20:39:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
-[26Jan2025 20:41:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> VEN A QUEMAR
-[26Jan2025 20:42:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Oliverpenguin5 to 201.500000, 88.000000, 53.500000
-[26Jan2025 20:42:49.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Disconnected
-[26Jan2025 20:42:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
-[26Jan2025 20:42:59.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported lkarakol to 201.500000, 88.000000, 53.500000
-[26Jan2025 20:47:57.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60702] logged in with entity id 70260 at (201.5, 88.0, 53.5)
-[26Jan2025 20:47:57.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
-[26Jan2025 20:57:32.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tienen manzanas?
-[26Jan2025 20:57:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> SI
-[26Jan2025 20:57:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> pa hacer manzanas doradas
-[26Jan2025 20:58:08.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> TRAE ORO
-[26Jan2025 20:59:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> brian teni los palos de blaze
-[26Jan2025 20:59:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ?
-[26Jan2025 20:59:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> se
-[26Jan2025 20:59:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> damelos
-[26Jan2025 20:59:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> no pasa nah
-[26Jan2025 20:59:39.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> xaa
-[26Jan2025 21:00:17.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> wena
-[26Jan2025 21:00:28.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> que vas a hacer
-[26Jan2025 21:00:43.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toy viendo como hacer las manzanas encantadas
-[26Jan2025 21:03:04.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> al final solo se pueden craftear manzanas doradas, creo que las encantadas te salen aleatorio
-[26Jan2025 21:05:51.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a
+[26Jan2025 21:22:10.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[26Jan2025 21:22:11.439] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2031 advancements
+[26Jan2025 21:22:11.442] [main/INFO] [Dungeon Crawl/]: Loading data...
+[26Jan2025 21:22:11.932] [main/INFO] [Dungeon Crawl/]: Done.
+[26Jan2025 21:22:17.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[26Jan2025 21:22:17.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Jan2025 21:22:17.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Jan2025 21:22:17.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Jan2025 21:22:17.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Jan2025 21:22:17.295] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Jan2025 21:22:17.408] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Jan2025 21:22:17.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Jan2025 21:22:17.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Jan2025 21:22:17.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Jan2025 21:22:17.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "Nuevo_Mundo"
+[26Jan2025 21:22:21.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Jan2025 21:22:26.229] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.252] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.262] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.275] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.302] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.341] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.351] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.378] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.401] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.416] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:26.815] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:27.314] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:27.817] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:28.310] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:28.822] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 21:22:29.310] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[26Jan2025 21:22:29.817] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[26Jan2025 21:22:30.210] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8901 ms
+[26Jan2025 21:22:30.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.750s)! For help, type "help"
+[26Jan2025 21:22:30.264] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Jan2025 21:22:30.264] [Server thread/INFO] [net.stardustlabs.amplifiednether.AmplifiedNether/]: Thanks for choosing AmplifiedNether!
+[26Jan2025 21:23:13.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lkarakol[/192.168.196.168:58440] logged in with entity id 121 at (176.5526873132594, 85.0, 77.73241270210471)
+[26Jan2025 21:23:13.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol joined the game
+[26Jan2025 21:23:25.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:55842] logged in with entity id 372 at (-438.9359879967104, 69.0, -1413.8008506910032)
+[26Jan2025 21:23:25.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
+[26Jan2025 21:23:28.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lkarakol moved too quickly! 3.428979574639186,-6.0,-7.383076064655
+[26Jan2025 21:23:28.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3165ms or 63 ticks behind
+[26Jan2025 21:27:29.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60731] logged in with entity id 2072 at (280.58197028680615, 130.29447028680616, 52.5)
+[26Jan2025 21:27:29.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
+[26Jan2025 21:27:38.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> go
+[26Jan2025 21:27:45.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> tan en el nether ya?
+[26Jan2025 21:29:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> alo
+[26Jan2025 21:29:55.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> ya vine
+[26Jan2025 21:30:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> al de la casa?
+[26Jan2025 21:30:27.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> se
