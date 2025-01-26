@@ -395,3 +395,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 01:21:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis tried to swim in lava
 [26Jan2025 01:21:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> ahora ve tu que haces
 [26Jan2025 01:21:25.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> no juego mas contigo ql
+[26Jan2025 01:24:12.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> sal del nether
+[26Jan2025 01:26:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nelson was doomed to fall
+[26Jan2025 01:26:51.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> 77
+[26Jan2025 01:27:25.649] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mancoprotesis with unique ID 499a9381-aede-4be7-87c6-a37d29f98207
+[26Jan2025 01:27:25.649] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 24 Y: 37 Z: -21
+[26Jan2025 01:27:25.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis fell from a high place
+[26Jan2025 01:27:44.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nelson lost connection: Disconnected
+[26Jan2025 01:27:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nelson left the game
+[26Jan2025 01:27:45.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mancoprotesis> que estas haiendoi?

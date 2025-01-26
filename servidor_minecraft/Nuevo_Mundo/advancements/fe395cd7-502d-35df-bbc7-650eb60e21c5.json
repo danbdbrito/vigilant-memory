@@ -604,6 +604,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-26 01:02:00 +0000"
@@ -634,9 +640,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-01-26 00:50:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -655,6 +673,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-26 00:58:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -754,6 +778,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-01-26 00:50:54 +0000"
@@ -763,6 +793,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -793,6 +829,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-26 00:45:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -904,6 +946,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-26 00:57:50 +0000"
@@ -934,6 +988,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-26 01:00:05 +0000"
@@ -949,6 +1015,18 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -982,6 +1060,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-26 00:58:22 +0000"
@@ -991,6 +1075,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-26 00:58:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -1078,6 +1168,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-26 00:39:26 +0000"
@@ -1114,6 +1222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 01:02:00 +0000"
@@ -1141,6 +1255,18 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-26 00:57:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -1192,6 +1318,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-01-26 00:58:39 +0000"
@@ -1217,9 +1361,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-26 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-01-26 01:22:53 +0000"
     },
     "done": true
   },
@@ -1232,6 +1394,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-26 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-26 01:21:43 +0000"
     },
     "done": true
   },
