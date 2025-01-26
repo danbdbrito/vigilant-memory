@@ -243,3 +243,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [26Jan2025 21:29:55.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> ya vine
 [26Jan2025 21:30:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> al de la casa?
 [26Jan2025 21:30:27.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> se
+[26Jan2025 21:31:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> el otro teleport no esta lejos de aqui
+[26Jan2025 21:31:56.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> no sale mejor viajar a la aldea desde el nether
+[26Jan2025 21:31:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> se
+[26Jan2025 21:32:13.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> tienes los dos marcados?
+[26Jan2025 21:32:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> hacemos el carril desde aca ono?
+[26Jan2025 21:32:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> el de aca no
+[26Jan2025 21:32:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> yo tampoco
+[26Jan2025 21:32:31.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> toy buscandolo pero no lo encuentro
+[26Jan2025 21:32:59.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ahi tta
+[26Jan2025 21:33:37.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> listo
+[26Jan2025 21:33:40.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> voy a buscar rieles
+[26Jan2025 21:33:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lkarakol> voy a buscar algo
+[26Jan2025 21:33:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ok
+[26Jan2025 21:36:51.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lkarakol has made the advancement [Hidden in the Depths]
+[26Jan2025 21:38:26.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mancoprotesis lost connection: Timed out
+[26Jan2025 21:38:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis left the game
+[26Jan2025 21:38:26.932] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jan2025 21:38:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> ooo que paso
+[26Jan2025 21:38:41.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mancoprotesis[/192.168.196.47:56093] logged in with entity id 7198 at (-461.54118526235504, 68.0, -1399.7414922563387)
+[26Jan2025 21:38:41.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mancoprotesis joined the game
+[26Jan2025 21:38:44.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oliverpenguin5> a
+[26Jan2025 21:41:16.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oliverpenguin5 lost connection: Timed out
+[26Jan2025 21:41:16.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 left the game
+[26Jan2025 21:41:37.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oliverpenguin5[/192.168.196.190:60742] logged in with entity id 8632 at (7.360622803574134, 86.0, 6.367398159447447)
+[26Jan2025 21:41:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oliverpenguin5 joined the game
